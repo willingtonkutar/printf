@@ -1,4 +1,4 @@
-#inlude "main.h"
+#include "main.h"
 /**
  * _putchar - writes te character c
  * @C: character that is printed
@@ -7,5 +7,5 @@
 
 int _putchar(char c)
 {
-	return (write(1, &C, 1));
+	return (write(1, &c, 1));
 }

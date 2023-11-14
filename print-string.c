@@ -22,7 +22,7 @@ int printf_string(va_list val)
 	}
 	else
 	{
-		length = _strle(str);
+		length = _strlen(str);
 		for (m = 0; m < length ; m++)
 			_putchar(str[m]);
 		return (length);
