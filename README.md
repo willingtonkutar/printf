@@ -1,2 +1,2 @@
-The new printf project tat I ended up doing alone snce my partner deferred till next cohort
-It encompases everything I have learnt in C programmin and I am going to do my best and understand it all.
+The new printf project that I ended up doing alone since my partner deferred till next cohort.
+It encompases everything I have learnt in C programming and I am going to do my best and understand it all.
