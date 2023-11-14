@@ -20,7 +20,7 @@ int _printf(const char *format, ...)
 Here:
 	while (format[g] != '\0')
 	{
-		k = 5;
+		k = 4;
 		while (k >= 0)
 		{
 			if (m[k].id[0] == format[g] && m[k].id[1] == format[g + 1])
